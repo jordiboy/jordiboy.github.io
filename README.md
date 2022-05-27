@@ -1,1 +1,1 @@
-# SoftUni-Courses
+# Console Games
